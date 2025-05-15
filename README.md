@@ -22,7 +22,7 @@ A secure API to manage a high-tech spy gadget inventory, built with Node.js, Exp
 - **Database**: PostgreSQL
 - **ORM**: Prisma
 - **Authentication**: JWT
-- **Dev Tools**: Postman, Swagger (optional)
+- **Dev Tools**: Postman
 
 ---
 
