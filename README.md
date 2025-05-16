@@ -124,7 +124,7 @@ npm start
 ```
 
 ## 📬 Postman Docs
-[📭 Postman Collection Link](https://.postman.co/workspace/My-Workspace~f4467e26-0442-4f21-8ead-aca3c5e36c8c/collection/28834176-0fd0ecd5-7fb0-49c0-8d37-df66b7d47f4e?action=share&creator=28834176)
+[📭 Postman Collection Link](https://web.postman.co/workspace/My-Workspace~f4467e26-0442-4f21-8ead-aca3c5e36c8c/collection/28834176-0fd0ecd5-7fb0-49c0-8d37-df66b7d47f4e)
 
 ## Deployment
 [Render](https://dashboard.render.com/web/srv-d0j4aq7diees73d0gkl0)
